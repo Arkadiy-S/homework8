@@ -183,7 +183,6 @@ graf.fillGraf(edges);
 
 graf.shortestPath(0, 5);
 
-console.log('end');
 
 
 
